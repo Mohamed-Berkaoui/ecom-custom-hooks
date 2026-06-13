@@ -15,8 +15,8 @@ function Navbar() {
             cart <CiShoppingCart />
           </li>
         </NavLink>
-        <NavLink to={"/add-product"}>
-          <li>add new product</li>
+        <NavLink to={"/admin"}>
+          <li>switch to admin vew</li>
         </NavLink>
       </ul>
     </div>
